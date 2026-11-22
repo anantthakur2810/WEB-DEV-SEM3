@@ -1,0 +1,110 @@
+[
+  {
+    "name": "Study Table",
+    "sku": "FURN-TB-812",
+    "category": "Furniture",
+    "price": 3999,
+    "quantity": 2,
+    "reorderLevel": 4,
+    "supplier": "IKEA India"
+  },
+  {
+    "name": "Ergonomic Mesh Office Chair",
+    "sku": "FURN-CHR-815",
+    "category": "Furniture",
+    "price": 5499,
+    "quantity": 3,
+    "reorderLevel": 5,
+    "supplier": "Featherlite"
+  },
+  {
+    "name": "Wooden Bookshelf 4-Tier",
+    "sku": "FURN-SHF-819",
+    "category": "Furniture",
+    "price": 2999,
+    "quantity": 8,
+    "reorderLevel": 4,
+    "supplier": "Urban Ladder"
+  },
+  {
+    "name": "USB-C Charging Hub 7-in-1",
+    "sku": "ELEC-HUB-101",
+    "category": "Electronics",
+    "price": 1499,
+    "quantity": 31,
+    "reorderLevel": 10,
+    "supplier": "Anker Technologies"
+  },
+  {
+    "name": "Wireless Gaming Mouse",
+    "sku": "ELEC-MOU-202",
+    "category": "Electronics",
+    "price": 2999,
+    "quantity": 54,
+    "reorderLevel": 15,
+    "supplier": "Logitech"
+  },
+  {
+    "name": "Bluetooth Portable Speaker",
+    "sku": "ELEC-SPK-303",
+    "category": "Electronics",
+    "price": 4999,
+    "quantity": 1,
+    "reorderLevel": 5,
+    "supplier": "JBL Audio"
+  },
+  {
+    "name": "4K Ultra Gaming Monitor 27-inch",
+    "sku": "ELEC-MON-404",
+    "category": "Electronics",
+    "price": 13049,
+    "quantity": 10,
+    "reorderLevel": 5,
+    "supplier": "Dell Computers"
+  },
+  {
+    "name": "Classic Crewneck Cotton T-Shirt",
+    "sku": "APP-TSH-501",
+    "category": "Apparel",
+    "price": 799,
+    "quantity": 67,
+    "reorderLevel": 20,
+    "supplier": "Zara Retail"
+  },
+  {
+    "name": "Slim Fit Stretch Denim Jeans",
+    "sku": "APP-JNS-502",
+    "category": "Apparel",
+    "price": 1999,
+    "quantity": 11,
+    "reorderLevel": 15,
+    "supplier": "Levi Strauss"
+  },
+  {
+    "name": "Stainless Steel Chef Knife 8-inch",
+    "sku": "HOME-KNF-901",
+    "category": "Home & Kitchen",
+    "price": 1299,
+    "quantity": 25,
+    "reorderLevel": 8,
+    "supplier": "Prestige"
+  },
+  {
+    "name": "Non-Stick 3-Piece Cookware Set",
+    "sku": "HOME-CKW-902",
+    "category": "Home & Kitchen",
+    "price": 3499,
+    "quantity": 14,
+    "reorderLevel": 5,
+    "supplier": "Hawkins Cookers"
+  },
+  {
+    "name": "Hardcover Ruled Notebook A5",
+    "sku": "STNY-NB-701",
+    "category": "Stationery",
+    "price": 249,
+    "quantity": 120,
+    "reorderLevel": 30,
+    "supplier": "Classmate"
+  }
+]
